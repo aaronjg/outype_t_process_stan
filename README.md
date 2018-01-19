@@ -6,3 +6,5 @@ Notebook ([PDF](https://rawgit.com/aaronjg/outype_t_process_stan/stancon2018/stu
 
 Code © 2018, Aaron Goodman, licensed under GPL 3.<br />
 Text © 2018, Aaron Goodman, licensed under CC-BY-NC 4.0.
+
+Cite using Zenodo: [![DOI](https://zenodo.org/badge/118161642.svg)](https://zenodo.org/badge/latestdoi/118161642)
